@@ -11,7 +11,9 @@ import { RouterLink } from '@angular/router';
   <nav>
     <a routerLink="/">Home</a>
     <a routerLink="/about">About</a>
-    <a routerLink="/project"></a>
+    <a routerLink="/project">Project</a>
+    <a routerLink="/cv">Cv</a>
+    <a routerLink="/contact">Contact</a>
   </nav>
   `
 })
